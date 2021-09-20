@@ -1,1 +1,1 @@
-# C_Eight_Queens_Game
+C-Eight-Queens-Game
